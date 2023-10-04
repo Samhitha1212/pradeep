@@ -63,7 +63,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker"
     },
     {
@@ -71,7 +71,26 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Matrix Groups"
+    }
+    {
+      "name": "Algebraic Topology"
+    }
+    {
+      "name": "Lie Groups and Lie Algebra"
+    }
+    {
+      "name": "Differential Geometery"
+    }
+    {
+      "name": "Differential Topology"
+    }
+    {
+      "name": "Representaton of Lie Algebras"
+    }
+  ],
   "references": [],
   "projects": []
 }

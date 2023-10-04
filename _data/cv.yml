@@ -2,96 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pradip Kumar Maity
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th september 1999
     - name: Languages
-      value: English, German
+      value: English, Bengali
+    - name: E-mail
+      value: pradipkumarmaity055@gmail.com
+    - name: E-mail
+      value: ma20c2028@alumini.iitm
+        
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Post Graduation
+      institution: Indian Institute of Technology Madras 
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - M.Sc in Mathematics
+        - CGPA- 8.84 
+        
+    - title: Graduation
+      institution: Midnapore College (Autonomous)
+      year: 2017-2020
       description:
-        - Description 1.
-        - Description 2.
+        - B.Sc in Mathematics
+        - CGPA- 9.44 
+    - title: 12th Standard
+      institution: kalara High School
+      year: 2017
+      description:
+        - Board - West Bengal Council of Higher Secondary Education
+        - Marks - 92.20%
+        - overall Grade - O 
+    - title: 10th Standard
+      institution: kalara High School  
+      year: 2015
+      description:
+        - Board - West Bengal Board of Secondary Education
+        - Marks- 84.86%
+        - Overall Grade - A+
+     
 
-- title: Experience
+
+
+- title: Master projects
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Topology of Matrix Groups And An Introduction to Lie Groups and Lie Algebras
+      year: 2022
+      description: Project supervisor - Dr.Soumen Sarkar
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
-  type: nested_list
+  type: time_table
   contents:
-    - title: Topic 1.
+    - title: Matrix Groups.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+  
+    - title: Algebraic Topology.
       items:
-        - Description 1.
-        - Description 2.
+        
+    - title: Lie Groups and Lie Algebra.
+      items:
+        
+    - title: Differential Geometry.
+      items:
+      
+    - title: Differential Topology.
+      items:
+    - title: Representation of Lie Algebras.
+      items:
+      
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        

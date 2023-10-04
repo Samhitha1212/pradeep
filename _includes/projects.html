@@ -1,4 +1,10 @@
 <!-- _includes/projects.html -->
+<style>
+.default-padding {
+  padding: 10px;
+}
+</style>
+
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
@@ -6,15 +12,15 @@
     {%- else -%}
     <a href="{{ project.url | relative_url }}">
       {%- endif %}
-      <div class="card hoverable">
+      <div class="card hoverable default-padding">
         {%- if project.img %}
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
+          <h2 class="card-title text-lowercase" style="font-size: 24px;">{{ project.title }}</h2>
+          <p class="card-text" style="font-size: 16px;">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
             <div class="github-icon">
@@ -26,7 +32,7 @@
                 <i class="fas fa-star"></i>
                 <span id="{{ project.github_stars }}-stars"></span>
               </span>
-              {%- endif %}
+              {%- endif -%}
             </div>
             {%- endif %}
           </div>
