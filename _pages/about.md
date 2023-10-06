@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-subtitle: A MATHEMATICS STUDENT
+subtitle: A MATHEMATICS LEARNER
 permalink: /
 
 
