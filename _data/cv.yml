@@ -64,7 +64,7 @@
     - title: Algebraic Topology.
       items:
         
-    - title: Lie Groups and Lie Algebra.
+    - title: Lie Groups and Lie Algebra and their Representation.
       items:
         
     - title: Differential Geometry.
@@ -72,7 +72,7 @@
       
     - title: Differential Topology.
       items:
-    - title: Representation of Lie Algebras.
+    - title: Ricci Flow.
       items:
       
 
