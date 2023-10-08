@@ -6,11 +6,11 @@
     - name: Date of Birth
       value: 20th september 1999
     - name: Languages
-      value: English, Bengali
+      value: English, Bengali, Hindi
     - name: E-mail
       value: pradipkumarmaity055@gmail.com
     - name: E-mail
-      value: ma20c2028@alumini.iitm
+      value: ma20c028@alumni.iitm.ac.in
         
 
 - title: Education
@@ -52,7 +52,7 @@
   contents:
     - title: Topology of Matrix Groups And An Introduction to Lie Groups and Lie Algebras
       year: 2022
-      description: Project supervisor - Dr.Soumen Sarkar
+      description: Project Supervisor- Dr. Soumen Sarkar, Associate Professor at  Indian Institute on Technology Madras.
 
 
 - title: Academic Interests
@@ -64,7 +64,7 @@
     - title: Algebraic Topology.
       items:
         
-    - title: Lie Groups and Lie Algebra.
+    - title: Lie Groups and Lie Algebra and their Representation.
       items:
         
     - title: Differential Geometry.
@@ -72,7 +72,7 @@
       
     - title: Differential Topology.
       items:
-    - title: Representation of Lie Algebras.
+    - title: Ricci Flow.
       items:
       
 
