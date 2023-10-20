@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: pradipphoto.jpg
+  image: pradippic.jpg
   image_circular: false # crops the image to make it circular
   address: >
    
